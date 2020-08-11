@@ -1,12 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
 
 .color{
    background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
 }
 .Card1{
   text-align: center;
-  padding: 150px;
-  line-height: 5px;
+  padding: 100px;
+  margin: 20px;
+  margin-top: 150px;
+
 }
 .Deck{
     margin: 4px;
@@ -22,7 +24,6 @@ h1{
 }
 h5{
   padding: 3px;
-  font-family: 'PT Sans Narrow', sans-serif;
 }
 .main-footer{
   padding-top: 3em;
@@ -44,4 +45,7 @@ h5{
 }
 .col{
   text-align: center;
+}
+.Search{
+    text-align: center;
 }

@@ -9,13 +9,13 @@ import './App.css'
   <reactBootstrap.Form inline>
     <reactBootstrap.InputGroup>
       <reactBootstrap.InputGroup.Prepend>
-        
-      </reactBootstrap.InputGroup.Prepend>
+      </reactBootstrap.InputGroup.Prepend >
       <reactBootstrap.FormControl
         placeholder="Search"
         aria-label="Username"
         aria-describedby="basic-addon1"
       />
+    
     </reactBootstrap.InputGroup>
   </reactBootstrap.Form>
   <reactBootstrap.Navbar.Toggle aria-controls="responsive-navbar-nav" />
